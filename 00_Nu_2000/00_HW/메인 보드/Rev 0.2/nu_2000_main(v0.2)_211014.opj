@@ -1,0 +1,81 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\nu_2000_main(v0.2)_211014.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (MPSSessionName "ATIK")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\nu_2000_main(v0.2)_211014.dsn")
+      (Path "Design Resources" ".\nu_2000_main(v0.2)_211014.dsn" "IOBoard")
+      (Select "Design Resources" ".\nu_2000_main(v0.2)_211014.dsn"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 660"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 2227 52 751")
+        (Scroll "0 360")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\00_PROJECT\2020\00_NU_2000\00_HW\메인 보드\REV 0.2\NU_2000_MAIN(V0.2)_211014.DSN")
+      (Schematic "IOBoard")
+      (Page "P01:MCU"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 2253 78 777")
+        (Scroll "-367 0")
+        (Zoom "60")
+        (Occurrence "/"))
+      (Path
+         "D:\00_PROJECT\2020\00_NU_2000\00_HW\메인 보드\REV 0.2\NU_2000_MAIN(V0.2)_211014.DSN")
+      (Schematic "IOBoard")
+      (Page "P02:RTD/LED/PD"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 2279 104 803")
+        (Scroll "-367 0")
+        (Zoom "60")
+        (Occurrence "/"))
+      (Path
+         "D:\00_PROJECT\2020\00_NU_2000\00_HW\메인 보드\REV 0.2\NU_2000_MAIN(V0.2)_211014.DSN")
+      (Schematic "IOBoard")
+      (Page "P03:POWER_PARALLEL_IN_OUT"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 130 2305 130 829")
+        (Scroll "-367 0")
+        (Zoom "60")
+        (Occurrence "/"))
+      (Path
+         "D:\00_PROJECT\2020\00_NU_2000\00_HW\메인 보드\REV 0.2\NU_2000_MAIN(V0.2)_211014.DSN")
+      (Schematic "IOBoard")
+      (Page "P04:DAC"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 156 2331 156 855")
+        (Scroll "-367 0")
+        (Zoom "60")
+        (Occurrence "/"))
+      (Path
+         "D:\00_PROJECT\2020\00_NU_2000\00_HW\메인 보드\REV 0.2\NU_2000_MAIN(V0.2)_211014.DSN")
+      (Schematic "IOBoard")
+      (Page "P05:UART"))))

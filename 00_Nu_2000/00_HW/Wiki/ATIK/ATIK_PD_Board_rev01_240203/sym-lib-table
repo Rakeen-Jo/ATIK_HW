@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "IR_LED-rescue")(type "Legacy")(uri "${KIPRJMOD}/ATIK_PD_Board_rev01_240203-rescue.lib")(options "")(descr ""))
+)

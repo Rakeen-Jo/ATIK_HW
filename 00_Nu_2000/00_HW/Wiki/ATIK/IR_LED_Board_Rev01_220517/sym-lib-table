@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "IR_LED-rescue")(type "Legacy")(uri "${KIPRJMOD}/IR_LED_Board_Rev01_220517-rescue.lib")(options "")(descr ""))
+)

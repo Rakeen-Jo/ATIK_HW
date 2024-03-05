@@ -1,0 +1,856 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>D:\00_Project\2020\00_Nu_2000\00_HW\Wiki\ATIK\ATIK_LED_Board_rev01_220517\ATIK_LED_Board_rev01_220517.kicad_sch</source>
+    <date>2023-05-22 오전 10:20:01</date>
+    <tool>Eeschema 7.0.2</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>ATIK_LED_Board_rev01_220517.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="device" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ATIK_LED_Board_rev01_220517.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000607d4ee3</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="device" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ATIK_LED_Board_rev01_220517.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060896493</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="device" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ATIK_LED_Board_rev01_220517.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000608ad186</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="device" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ATIK_LED_Board_rev01_220517.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060637e30</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="device" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ATIK_LED_Board_rev01_220517.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006063ea69</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="device" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ATIK_LED_Board_rev01_220517.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000607fd56b</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="device" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ATIK_LED_Board_rev01_220517.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000607fd7dc</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="device" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ATIK_LED_Board_rev01_220517.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006138079d</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="device" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ATIK_LED_Board_rev01_220517.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000613807df</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="device" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ATIK_LED_Board_rev01_220517.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000613807a3</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="device" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ATIK_LED_Board_rev01_220517.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000613807f8</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="device" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ATIK_LED_Board_rev01_220517.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061380831</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="device" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ATIK_LED_Board_rev01_220517.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000613807fe</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="device" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ATIK_LED_Board_rev01_220517.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000613807a9</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="device" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ATIK_LED_Board_rev01_220517.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061380804</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="device" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ATIK_LED_Board_rev01_220517.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006132a084</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="device" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ATIK_LED_Board_rev01_220517.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000613c6531</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="device" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ATIK_LED_Board_rev01_220517.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000613c6571</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="device" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ATIK_LED_Board_rev01_220517.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000613c6537</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="device" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ATIK_LED_Board_rev01_220517.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000613c658a</tstamps>
+    </comp>
+    <comp ref="C21">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="device" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ATIK_LED_Board_rev01_220517.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000613c65c3</tstamps>
+    </comp>
+    <comp ref="C22">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="device" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ATIK_LED_Board_rev01_220517.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000613c6590</tstamps>
+    </comp>
+    <comp ref="C23">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="device" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ATIK_LED_Board_rev01_220517.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000613c653d</tstamps>
+    </comp>
+    <comp ref="C24">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="device" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ATIK_LED_Board_rev01_220517.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000613c6596</tstamps>
+    </comp>
+    <comp ref="C25">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="device" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ATIK_LED_Board_rev01_220517.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000613c65df</tstamps>
+    </comp>
+    <comp ref="C26">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="device" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ATIK_LED_Board_rev01_220517.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>38beebc4-3239-47a9-a8c1-94ca4181d811</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>LED_PAD</value>
+      <footprint>LED_THT:LED_D5.0mm</footprint>
+      <libsource lib="device" part="LED_PAD" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ATIK_LED_Board_rev01_220517.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060796c33</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D5.0mm</footprint>
+      <libsource lib="device" part="LED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ATIK_LED_Board_rev01_220517.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000605f7e9d</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x01</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x01_Pitch2.54mm</footprint>
+      <libsource lib="conn" part="Conn_01x01" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ATIK_LED_Board_rev01_220517.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000605fdecc</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x01</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x01_Pitch2.54mm</footprint>
+      <libsource lib="conn" part="Conn_01x01" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ATIK_LED_Board_rev01_220517.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000605fda8a</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Conn_01x06</value>
+      <footprint>Wiki:5268-06A</footprint>
+      <libsource lib="conn" part="Conn_01x06" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ATIK_LED_Board_rev01_220517.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000612c60bb</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>0R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="device" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ATIK_LED_Board_rev01_220517.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000605f9050</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>10R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="device" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ATIK_LED_Board_rev01_220517.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000606011bc</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>10R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="device" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ATIK_LED_Board_rev01_220517.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060601558</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>560K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="device" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ATIK_LED_Board_rev01_220517.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000613807eb</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>9.1K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="device" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ATIK_LED_Board_rev01_220517.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000613807e5</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>1.2K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="device" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ATIK_LED_Board_rev01_220517.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006136fca5</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>560K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="device" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ATIK_LED_Board_rev01_220517.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000613c657d</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>2K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="device" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ATIK_LED_Board_rev01_220517.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000613c65f1</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="device" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ATIK_LED_Board_rev01_220517.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000613c6577</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>6.8K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="device" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ATIK_LED_Board_rev01_220517.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e17ff411-9eb5-4d7e-b622-6dc63a6754f4</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>4.7K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="device" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ATIK_LED_Board_rev01_220517.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>378add12-d66b-468c-b686-3b06df092cb9</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>2.7K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="device" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ATIK_LED_Board_rev01_220517.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9b275fe9-0df6-4fb8-ba87-aa04c21510c5</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>4.7K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="device" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ATIK_LED_Board_rev01_220517.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0c414291-0a90-4918-99c3-3a631ca51e9c</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>0R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="device" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ATIK_LED_Board_rev01_220517.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4d8bcdef-2d73-45ab-bc4a-37fa426a4e2c</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="device" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ATIK_LED_Board_rev01_220517.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b5c61ef2-2a3e-4874-b16c-fdcde44e201d</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>iC_HK_B</value>
+      <footprint>Package_SOIC:SOIC-8-1EP_3.9x4.9mm_P1.27mm</footprint>
+      <libsource lib="Wikistar" part="iC_HK_B" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ATIK_LED_Board_rev01_220517.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000605dac1b</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>NA_LMV321WG-7</value>
+      <footprint>SOT95P285X145-5N</footprint>
+      <fields>
+        <field name="Manufacturer">Diodes Inc.</field>
+        <field name="Package">SOT95P285X145-5N</field>
+      </fields>
+      <libsource lib="LMV321WG-7" part="LMV321WG-7" description=""/>
+      <property name="Manufacturer" value="Diodes Inc."/>
+      <property name="Package" value="SOT95P285X145-5N"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ATIK_LED_Board_rev01_220517.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>69e6296b-9cdc-4a41-96ad-725ed2a6f08b</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>CAT6201</value>
+      <footprint>Wiki:TDFN-8(ON semi)</footprint>
+      <libsource lib="Wikistar" part="CAT6201" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ATIK_LED_Board_rev01_220517.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006131f77c</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>CAT6201</value>
+      <footprint>Wiki:TDFN-8(ON semi)</footprint>
+      <libsource lib="Wikistar" part="CAT6201" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ATIK_LED_Board_rev01_220517.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000613c65d4</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>MCP4541-103E/MS</value>
+      <footprint>SOP65P490X110-8N</footprint>
+      <libsource lib="MCP4541-103E_MS" part="MCP4541-103E{slash}MS" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ATIK_LED_Board_rev01_220517.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0bc1e0df-f3f5-413b-9eb1-1ee421f55b2f</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="LMV321WG-7" part="LMV321WG-7">
+      <fields>
+        <field name="Reference">U2</field>
+        <field name="Value">LMV321WG-7</field>
+        <field name="Footprint">SOT95P285X145-5N</field>
+        <field name="Manufacturer">Diodes Inc.</field>
+        <field name="Package">SOT95P285X145-5N</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN+" type="input"/>
+        <pin num="2" name="V-" type="power_in"/>
+        <pin num="3" name="IN-" type="input"/>
+        <pin num="4" name="OUT" type="output"/>
+        <pin num="5" name="V+" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="MCP4541-103E_MS" part="MCP4541-103E{slash}MS">
+      <fields>
+        <field name="Reference">U5</field>
+        <field name="Value">MCP4541-103E/MS</field>
+        <field name="Footprint">SOP65P490X110-8N</field>
+      </fields>
+      <pins>
+        <pin num="1" name="HVC/A0" type="input"/>
+        <pin num="2" name="SCL" type="input"/>
+        <pin num="3" name="SDA" type="bidirectional"/>
+        <pin num="4" name="VSS" type="power_in"/>
+        <pin num="5" name="P0A" type="bidirectional"/>
+        <pin num="6" name="P0W" type="bidirectional"/>
+        <pin num="7" name="P0B" type="bidirectional"/>
+        <pin num="8" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Wikistar" part="CAT6201">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">Wikistar_CAT6201</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VIN" type="input"/>
+        <pin num="2" name="~{FLT}" type="input"/>
+        <pin num="3" name="EN" type="input"/>
+        <pin num="4" name="BYP" type="input"/>
+        <pin num="5" name="GND" type="input"/>
+        <pin num="6" name="ILIM" type="input"/>
+        <pin num="7" name="VADJ" type="input"/>
+        <pin num="8" name="VOUT" type="input"/>
+        <pin num="9" name="PAD" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Wikistar" part="iC_HK_B">
+      <fields>
+        <field name="Reference">U1</field>
+        <field name="Value">iC_HK_B</field>
+        <field name="Footprint">Package_SOIC:SOIC-8-1EP_3.9x4.9mm_P1.27mm</field>
+      </fields>
+      <pins>
+        <pin num="1" name="EN1" type="input"/>
+        <pin num="2" name="AGND1" type="input"/>
+        <pin num="3" name="LDK" type="input"/>
+        <pin num="4" name="AGND2" type="input"/>
+        <pin num="5" name="EN2" type="input"/>
+        <pin num="6" name="GND" type="input"/>
+        <pin num="7" name="VDD" type="input"/>
+        <pin num="8" name="CI" type="input"/>
+        <pin num="9" name="ThermalPAD" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="Conn_01x01">
+      <footprints>
+        <fp>Connector*:*_??x*mm*</fp>
+        <fp>Connector*:*1x??x*mm*</fp>
+        <fp>Pin?Header?Straight?1X*</fp>
+        <fp>Pin?Header?Angled?1X*</fp>
+        <fp>Socket?Strip?Straight?1X*</fp>
+        <fp>Socket?Strip?Angled?1X*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">conn_Conn_01x01</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="Conn_01x06">
+      <footprints>
+        <fp>Connector*:*_??x*mm*</fp>
+        <fp>Connector*:*1x??x*mm*</fp>
+        <fp>Pin?Header?Straight?1X*</fp>
+        <fp>Pin?Header?Angled?1X*</fp>
+        <fp>Socket?Strip?Straight?1X*</fp>
+        <fp>Socket?Strip?Angled?1X*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">conn_Conn_01x06</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="C">
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">device_C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="LED">
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">device_LED</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="LED_PAD">
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">device_LED_PAD</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+        <pin num="3" name="PAD" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="R">
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">device_R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="LMV321WG-7">
+      <uri>D:\00_Project\2020\00_Nu_2000\00_HW\Wiki\LED Board\parts\LMV321WG-7\LMV321WG-7.kicad_sym</uri>
+    </library>
+    <library logical="MCP4541-103E_MS">
+      <uri>D:/00_Project/2020/00_Nu_2000/00_HW/Wiki/LED Board/parts/MCP4541-103E_MS/MCP4541-103E_MS.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="CI">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="CI" pintype="input"/>
+    </net>
+    <net code="2" name="EN">
+      <node ref="J3" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="EN1" pintype="input"/>
+      <node ref="U1" pin="5" pinfunction="EN2" pintype="input"/>
+    </net>
+    <net code="3" name="GND">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="C23" pin="2" pintype="passive"/>
+      <node ref="C24" pin="2" pintype="passive"/>
+      <node ref="C25" pin="2" pintype="passive"/>
+      <node ref="C26" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="GND" pintype="input"/>
+      <node ref="U1" pin="9" pinfunction="ThermalPAD" pintype="input"/>
+      <node ref="U2" pin="2" pinfunction="V-" pintype="power_in"/>
+      <node ref="U3" pin="5" pinfunction="GND" pintype="input"/>
+      <node ref="U3" pin="9" pinfunction="PAD" pintype="input"/>
+      <node ref="U4" pin="5" pinfunction="GND" pintype="input"/>
+      <node ref="U4" pin="9" pinfunction="PAD" pintype="input"/>
+      <node ref="U5" pin="4" pinfunction="VSS" pintype="power_in"/>
+    </net>
+    <net code="4" name="LED_K">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="LDK" pintype="input"/>
+    </net>
+    <net code="5" name="Net-(D1-A)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(D1-PAD)">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="D1" pin="3" pinfunction="PAD" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(U1-AGND1)">
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="AGND1" pintype="input"/>
+    </net>
+    <net code="8" name="Net-(U1-AGND2)">
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="AGND2" pintype="input"/>
+    </net>
+    <net code="9" name="Net-(U2-IN+)">
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="IN+" pintype="input"/>
+      <node ref="U5" pin="6" pinfunction="P0W" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="Net-(U2-IN-)">
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="IN-" pintype="input"/>
+      <node ref="U2" pin="4" pinfunction="OUT" pintype="output"/>
+    </net>
+    <net code="11" name="Net-(U3-BYP)">
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="U3" pin="4" pinfunction="BYP" pintype="input"/>
+    </net>
+    <net code="12" name="Net-(U3-ILIM)">
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="U3" pin="6" pinfunction="ILIM" pintype="input"/>
+    </net>
+    <net code="13" name="Net-(U3-VADJ)">
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U3" pin="7" pinfunction="VADJ" pintype="input"/>
+    </net>
+    <net code="14" name="Net-(U4-BYP)">
+      <node ref="C25" pin="1" pintype="passive"/>
+      <node ref="U4" pin="4" pinfunction="BYP" pintype="input"/>
+    </net>
+    <net code="15" name="Net-(U4-ILIM)">
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="U4" pin="6" pinfunction="ILIM" pintype="input"/>
+    </net>
+    <net code="16" name="Net-(U4-VADJ)">
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="U4" pin="7" pinfunction="VADJ" pintype="input"/>
+    </net>
+    <net code="17" name="Net-(U5-HVC{slash}A0)">
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="U5" pin="1" pinfunction="HVC/A0" pintype="input"/>
+    </net>
+    <net code="18" name="Net-(U5-P0B)">
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="U5" pin="7" pinfunction="P0B" pintype="bidirectional"/>
+    </net>
+    <net code="19" name="SCL">
+      <node ref="J3" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U5" pin="2" pinfunction="SCL" pintype="input"/>
+    </net>
+    <net code="20" name="SDA">
+      <node ref="J3" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="U5" pin="3" pinfunction="SDA" pintype="bidirectional"/>
+    </net>
+    <net code="21" name="VDD">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="C23" pin="1" pintype="passive"/>
+      <node ref="C24" pin="1" pintype="passive"/>
+      <node ref="C26" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="VDD" pintype="input"/>
+      <node ref="U2" pin="5" pinfunction="V+" pintype="power_in"/>
+      <node ref="U4" pin="8" pinfunction="VOUT" pintype="input"/>
+      <node ref="U5" pin="8" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="22" name="VIN">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U3" pin="1" pinfunction="VIN" pintype="input"/>
+      <node ref="U3" pin="3" pinfunction="EN" pintype="input"/>
+      <node ref="U4" pin="1" pinfunction="VIN" pintype="input"/>
+      <node ref="U4" pin="3" pinfunction="EN" pintype="input"/>
+    </net>
+    <net code="23" name="V_LED">
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U3" pin="8" pinfunction="VOUT" pintype="input"/>
+    </net>
+    <net code="24" name="unconnected-(U3-~{FLT}-Pad2)">
+      <node ref="U3" pin="2" pinfunction="~{FLT}" pintype="input"/>
+    </net>
+    <net code="25" name="unconnected-(U4-~{FLT}-Pad2)">
+      <node ref="U4" pin="2" pinfunction="~{FLT}" pintype="input"/>
+    </net>
+    <net code="26" name="unconnected-(U5-P0A-Pad5)">
+      <node ref="U5" pin="5" pinfunction="P0A" pintype="bidirectional+no_connect"/>
+    </net>
+  </nets>
+</export>
