@@ -1,0 +1,41 @@
+==============================================================================
+PADS Layout - Version 2021.2.19222662
+==============================================================================
+Job Name:                  D:\00_Project\2023\02_L_LPC\00_HW\14. LPC_sensor_copy\01. HW\Rev_0.1\LPC_PD_POWER(rev_0.1)_221026.pcb
+
+3D Design Status Report:   D:\00_Project\2023\02_L_LPC\00_HW\14. LPC_sensor_copy\01. HW\Rev_0.1\LogFiles\DesignStatus3D_00.txt
+
+02:56:53 PM Thursday, April 13, 2023
+
+==============================================================================
+3D DESIGN STATUS
+==============================================================================
+
+Design Z Extents ......... 0 mm to 28.56 mm
+
+Part models found ........ 0
+
+Part models not found .... 21
+   Part Number
+   3224X-1-502E
+   3266W-1-103LF
+   7805_TO-220
+   79L05_SOT-89
+   C2012
+   HEADER-2.54MM-7P
+   L2012
+   NW-A2510-3A
+   NW-A2510-3AW
+   NW-A2510-4A
+   NW-A2510-6A
+   OPA380AIDR
+   R2012
+   R3216
+   S2506-02
+   SOT23_3
+   TC3216
+   TC3528
+   TC6032
+   TP-3.14MM
+   TP-3.1MM
+

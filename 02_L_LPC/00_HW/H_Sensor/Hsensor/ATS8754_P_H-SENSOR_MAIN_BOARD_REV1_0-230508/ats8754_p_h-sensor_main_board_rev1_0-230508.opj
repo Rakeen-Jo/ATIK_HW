@@ -1,0 +1,66 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\ats8754_p_h-sensor_main_board_rev1_0-230508.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (MPSSessionName "ATIK")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         ".\ats8754_p_h-sensor_main_board_rev1_0-230508.dsn")
+      (Path "Design Resources"
+         ".\ats8754_p_h-sensor_main_board_rev1_0-230508.dsn"
+         "LPC_MAIN_BOARD_TOP")
+      (Path "Design Resources"
+         ".\ats8754_p_h-sensor_main_board_rev1_0-230508.dsn" "00 PRE_AMP")
+      (Path "Design Resources"
+         ".\ats8754_p_h-sensor_main_board_rev1_0-230508.dsn"
+         "10 DIFF_ADC_DRIVER")
+      (Path "Design Resources"
+         ".\ats8754_p_h-sensor_main_board_rev1_0-230508.dsn" "20 ADC")
+      (Path "Design Resources"
+         ".\ats8754_p_h-sensor_main_board_rev1_0-230508.dsn" "30 MAIN_FPGA")
+      (Path "Design Resources"
+         ".\ats8754_p_h-sensor_main_board_rev1_0-230508.dsn" "31 FPGA_XC7Z_CFG")
+      (Path "Design Resources"
+         ".\ats8754_p_h-sensor_main_board_rev1_0-230508.dsn" "32 FPGA_XC7Z_PWR")
+      (Path "Design Resources"
+         ".\ats8754_p_h-sensor_main_board_rev1_0-230508.dsn" "33 FPGA_XC7Z_SIG0")
+      (Path "Design Resources"
+         ".\ats8754_p_h-sensor_main_board_rev1_0-230508.dsn" "34 FPGA_XC7Z_SIG1")
+      (Path "Design Resources"
+         ".\ats8754_p_h-sensor_main_board_rev1_0-230508.dsn"
+         "40 ETHERNET_CONVERTER")
+      (Path "Design Resources"
+         ".\ats8754_p_h-sensor_main_board_rev1_0-230508.dsn" "50 CONNECTOR")
+      (Path "Design Resources"
+         ".\ats8754_p_h-sensor_main_board_rev1_0-230508.dsn" "60 DAC")
+      (Select "Design Resources"
+         ".\ats8754_p_h-sensor_main_board_rev1_0-230508.dsn" "50 CONNECTOR"
+         "50 CONNECTOR"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 488"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 52 1688 52 521")
+        (Scroll "-5 389")
+        (Zoom "154")
+        (Occurrence "/CONNECTOR"))
+      (Path
+         "D:\00_PROJECT\2023\02_L_LPC\00_HW\H_SENSOR\HSENSOR\ATS8754_P_H-SENSOR_MAIN_BOARD_REV1_0-230508\ATS8754_P_H-SENSOR_MAIN_BOARD_REV1_0-230508.DSN")
+      (Schematic "50 CONNECTOR")
+      (Page "50 CONNECTOR"))))

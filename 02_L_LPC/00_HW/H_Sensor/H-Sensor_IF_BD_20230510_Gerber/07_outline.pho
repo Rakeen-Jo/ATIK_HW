@@ -1,0 +1,82 @@
+*
+*
+G04 PADS VX.2.10 Build Number: 19222662 generated Gerber (RS-274-X) file*
+G04 PC Version=2.1*
+*
+%IN "Reservoir_Module_Rev0.1"*%
+*
+%MOIN*%
+*
+%FSLAX35Y35*%
+*
+*
+*
+*
+G04 PC Standard Apertures*
+*
+*
+G04 Thermal Relief Aperture macro.*
+%AMTER*
+1,1,$1,0,0*
+1,0,$1-$2,0,0*
+21,0,$3,$4,0,0,45*
+21,0,$3,$4,0,0,135*
+%
+*
+*
+G04 Annular Aperture macro.*
+%AMANN*
+1,1,$1,0,0*
+1,0,$2,0,0*
+%
+*
+*
+G04 Odd Aperture macro.*
+%AMODD*
+1,1,$1,0,0*
+1,0,$1-0.005,0,0*
+%
+*
+*
+G04 PC Custom Aperture Macros*
+*
+*
+*
+*
+*
+*
+G04 PC Aperture Table*
+*
+%ADD134C,0.001*%
+*
+*
+*
+*
+G04 PC Circuitry*
+G04 Layer Name Reservoir_Module_Rev0.1 - circuitry*
+%LPD*%
+*
+*
+G04 PC Custom Flashes*
+G04 Layer Name Reservoir_Module_Rev0.1 - flashes*
+%LPD*%
+*
+*
+G04 PC Circuitry*
+G04 Layer Name Reservoir_Module_Rev0.1 - circuitry*
+%LPD*%
+*
+G54D134*
+G01X393698Y395669D02*
+G75*
+G03X395667Y393701I1969J0D01*
+G01X498029*
+G03X499997Y395669I-0J1968*
+G01Y537402*
+G03X498029Y539370I-1968J-0*
+G01X395667*
+G03X393698Y537402I-0J-1968*
+G01Y395669*
+G74*
+X0Y0D02*
+M02*

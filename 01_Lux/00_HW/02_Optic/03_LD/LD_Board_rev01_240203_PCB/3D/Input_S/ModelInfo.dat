@@ -1,0 +1,113 @@
+Version: 1
+RefDes: 1
+FactPartName: "C1608"
+SubSeriesName: "C1608"
+PartNum: "C1608"
+Height: 0
+Mass: 9999
+Package: "C1608"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "C:\PADS Projects\Reuse\3DModels\PartDB\Packages\User\C1608\C1608.prt"
+PTD: "C:\PADS Projects\Reuse\3DModels\PartDB\User\C1608\C1608.etd"
+
+
+RefDes: 5
+FactPartName: "R1608"
+SubSeriesName: "R1608"
+PartNum: "R1608"
+Height: 0
+Mass: 9999
+Package: "R1608"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "C:\PADS Projects\Reuse\3DModels\PartDB\Packages\User\R1608\R1608.prt"
+PTD: "C:\PADS Projects\Reuse\3DModels\PartDB\User\R1608\R1608.etd"
+
+
+RefDes: 0
+FactPartName: "22057035"
+SubSeriesName: "022057035"
+PartNum: "022057035"
+Height: 0
+Mass: 9999
+Package: "022057035"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "C:\PADS Projects\Reuse\3DModels\PartDB\Packages\User\022057035\022057035.prt"
+PTD: "C:\PADS Projects\Reuse\3DModels\PartDB\User\022057035\022057035.etd"
+
+
+RefDes: 2
+FactPartName: "CAT6201"
+SubSeriesName: "User Library-TDFN-8-1"
+PartNum: "User Library-TDFN-8-1"
+Height: 0
+Mass: 9999
+Package: "User Library-TDFN-8-1"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "C:\PADS Projects\Reuse\3DModels\PartDB\Packages\User\User Library-TDFN-8-1\User Library-TDFN-8-1.prt"
+PTD: "C:\PADS Projects\Reuse\3DModels\PartDB\User\User Library-TDFN-8-1\User Library-TDFN-8-1.etd"
+
+
+RefDes: 3
+FactPartName: "IC-WK"
+SubSeriesName: "SOIC8"
+PartNum: "SOIC8"
+Height: 0
+Mass: 9999
+Package: "SOIC8"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "C:\PADS Projects\Reuse\3DModels\PartDB\Packages\User\SOIC8\SOIC8.prt"
+PTD: "C:\PADS Projects\Reuse\3DModels\PartDB\User\SOIC8\SOIC8.etd"
+
+
+RefDes: 4
+FactPartName: "PVG3G203C01R00"
+SubSeriesName: "PVG3G501C01R00"
+PartNum: "PVG3G501C01R00"
+Height: 0
+Mass: 9999
+Package: "PVG3G501C01R00"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "C:\PADS Projects\Reuse\3DModels\PartDB\Packages\User\PVG3G501C01R00\PVG3G501C01R00.prt"
+PTD: "C:\PADS Projects\Reuse\3DModels\PartDB\User\PVG3G501C01R00\PVG3G501C01R00.etd"
+
+
+RefDes: 6
+FactPartName: "SMAJ40CA"
+SubSeriesName: "SMAJ40CA"
+PartNum: "SMAJ40CA"
+Height: 0
+Mass: 9999
+Package: "SMAJ40CA"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "C:\PADS Projects\Reuse\3DModels\PartDB\Packages\User\SMAJ40CA\SMAJ40CA.prt"
+PTD: "C:\PADS Projects\Reuse\3DModels\PartDB\User\SMAJ40CA\SMAJ40CA.etd"
+
+

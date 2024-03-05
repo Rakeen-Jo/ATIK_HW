@@ -1,0 +1,39 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\l_l_main(v0_1)_2023091511a.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\l_l_main(v0_1)_2023091511a.dsn")
+      (Path "Design Resources" ".\l_l_main(v0_1)_2023091511a.dsn" "L-L Main")
+      (Select "Design Resources" ".\l_l_main(v0_1)_2023091511a.dsn" "L-L Main"
+         "P01:TITLE/Rev_History")
+      (Select "Design Resources" ".\l_l_main(v0_1)_2023091511a.dsn" "L-L Main"
+         "P02:BLOCK DIAGRAM")
+      (Select "Design Resources" ".\l_l_main(v0_1)_2023091511a.dsn" "L-L Main"
+         "P03:POWER/SENSOR/TEMP")
+      (Select "Design Resources" ".\l_l_main(v0_1)_2023091511a.dsn" "L-L Main"
+         "P04:DAC")
+      (Select "Design Resources" ".\l_l_main(v0_1)_2023091511a.dsn" "L-L Main"
+         "P05:RLY/24VOUT")
+      (Select "Design Resources" ".\l_l_main(v0_1)_2023091511a.dsn" "L-L Main"
+         "P06:UART")
+      (Select "Design Resources" ".\l_l_main(v0_1)_2023091511a.dsn" "L-L Main"
+         "P07:STEP")
+      (Select "Design Resources" ".\l_l_main(v0_1)_2023091511a.dsn" "L-L Main"
+         "P08:INTERFACE"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 656"))
+      (Tab 0))))

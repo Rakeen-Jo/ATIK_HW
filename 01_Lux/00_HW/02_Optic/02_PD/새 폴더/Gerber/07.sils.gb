@@ -1,0 +1,96 @@
+*
+*
+G04 PADS VX.2.10 Build Number: 19222662 generated Gerber (RS-274-X) file*
+G04 PC Version=2.1*
+*
+%IN "ATS8754_P_H-SENSOR_MAIN"*%
+*
+%MOIN*%
+*
+%FSLAX35Y35*%
+*
+*
+*
+*
+G04 PC Standard Apertures*
+*
+*
+G04 Thermal Relief Aperture macro.*
+%AMTER*
+1,1,$1,0,0*
+1,0,$1-$2,0,0*
+21,0,$3,$4,0,0,45*
+21,0,$3,$4,0,0,135*
+%
+*
+*
+G04 Annular Aperture macro.*
+%AMANN*
+1,1,$1,0,0*
+1,0,$2,0,0*
+%
+*
+*
+G04 Odd Aperture macro.*
+%AMODD*
+1,1,$1,0,0*
+1,0,$1-0.005,0,0*
+%
+*
+*
+G04 PC Custom Aperture Macros*
+*
+*
+*
+*
+*
+*
+G04 PC Aperture Table*
+*
+%ADD198C,0.001*%
+%ADD346C,0.00354*%
+*
+*
+*
+*
+G04 PC Circuitry*
+G04 Layer Name ATS8754_P_H-SENSOR_MAIN - circuitry*
+%LPD*%
+*
+*
+G04 PC Custom Flashes*
+G04 Layer Name ATS8754_P_H-SENSOR_MAIN - flashes*
+%LPD*%
+*
+*
+G04 PC Circuitry*
+G04 Layer Name ATS8754_P_H-SENSOR_MAIN - circuitry*
+%LPD*%
+*
+G54D198*
+G54D346*
+G01X407579Y565339D02*
+Y431480D01*
+X663484*
+Y565339*
+X407579*
+X429626Y547622D02*
+G75*
+G03X429626I-4331J0D01*
+G01X522146D02*
+G03X522146I-4331J0D01*
+G01X557579D02*
+G03X557579I-4331J0D01*
+G01X650098D02*
+G03X650098I-4330J0D01*
+G01X429626Y449197D02*
+G03X429626I-4331J0D01*
+G01X522146D02*
+G03X522146I-4331J0D01*
+G01X557579D02*
+G03X557579I-4331J0D01*
+G01X650098D02*
+G03X650098I-4330J0D01*
+G74*
+G01X0Y0D02*
+M02*

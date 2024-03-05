@@ -1,0 +1,29 @@
+==============================================================================
+PADS Layout - Version 2021.2.19222662
+==============================================================================
+Job Name:                  D:\00_Project\2024\01_Lux\00_HW\02_Optic\02_PD\PD_Board_rev01_240203.pcb
+
+3D Design Status Report:   D:\00_Project\2024\01_Lux\00_HW\02_Optic\02_PD\LogFiles\DesignStatus3D_03.txt
+
+04:16:00 PM Monday, February 19, 2024
+
+==============================================================================
+3D DESIGN STATUS
+==============================================================================
+
+Design Z Extents ......... -9.62 mm to 5.04 mm
+
+Part models found ........ 9
+   Part Number             3D Model
+   22057055                D:\00_Project\2024\01_Lux\00_HW\02_Optic\02_PD\PD_Board_rev01_240203_PCB\3D\ImportedPartModels\22057055.stp
+   ADS1115IDGST            D:\00_Project\2024\01_Lux\00_HW\02_Optic\02_PD\PD_Board_rev01_240203_PCB\3D\ImportedPartModels\ADS1115IDGST.STEP
+   C1608                   D:\00_Project\2024\01_Lux\00_HW\02_Optic\02_PD\PD_Board_rev01_240203_PCB\3D\ImportedPartModels\C1608.STEP
+   G12183-010K             D:\00_Project\2024\01_Lux\00_HW\02_Optic\02_PD\PD_Board_rev01_240203_PCB\3D\ImportedPartModels\ir_pd_assy.stp
+   ICL7660CSA              D:\00_Project\2024\01_Lux\00_HW\02_Optic\02_PD\PD_Board_rev01_240203_PCB\3D\ImportedPartModels\ICL7660CSA.STEP
+   OPA380AID               D:\00_Project\2024\01_Lux\00_HW\02_Optic\02_PD\PD_Board_rev01_240203_PCB\3D\ImportedPartModels\OPA380AID.STEP
+   R1608                   D:\00_Project\2024\01_Lux\00_HW\02_Optic\02_PD\PD_Board_rev01_240203_PCB\3D\ImportedPartModels\R1608.STEP
+   S12698-01               D:\00_Project\2024\01_Lux\00_HW\02_Optic\02_PD\PD_Board_rev01_240203_PCB\3D\ImportedPartModels\uv_pd_assy.stp
+   T491A106M016AT4803      D:\00_Project\2024\01_Lux\00_HW\02_Optic\02_PD\PD_Board_rev01_240203_PCB\3D\ImportedPartModels\TANTAL.STEP
+
+Part models not found .... 0
+
