@@ -1,0 +1,273 @@
+Version: 1
+RefDes: 8
+FactPartName: "SOP16_W10.0X6.0_P1.27_F0.8"
+SubSeriesName: "D0016A"
+PartNum: "D0016A"
+Height: 0
+Mass: 9999
+Package: "D0016A"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "C:\PADS Projects\Reuse\3DModels\PartDB\Packages\User\D0016A\D0016A.prt"
+PTD: "C:\PADS Projects\Reuse\3DModels\PartDB\User\D0016A\D0016A.etd"
+
+
+RefDes: 1
+FactPartName: "760390014"
+SubSeriesName: "760390014_WRE"
+PartNum: "760390014_WRE"
+Height: 0
+Mass: 9999
+Package: "760390014_WRE"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "C:\PADS Projects\Reuse\3DModels\PartDB\Packages\User\760390014_WRE\760390014_WRE.prt"
+PTD: "C:\PADS Projects\Reuse\3DModels\PartDB\User\760390014_WRE\760390014_WRE.etd"
+
+
+RefDes: 9
+FactPartName: "SOP16_W10.3X7.0_P1.27_F0.5"
+SubSeriesName: "SO16_0"
+PartNum: "SO16_0"
+Height: 0
+Mass: 9999
+Package: "SO16_0"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "C:\PADS Projects\Reuse\3DModels\PartDB\Packages\User\SO16_0\SO16_0.prt"
+PTD: "C:\PADS Projects\Reuse\3DModels\PartDB\User\SO16_0\SO16_0.etd"
+
+
+RefDes: 12
+FactPartName: "YMW025-02R"
+SubSeriesName: "5267-02_099990986"
+PartNum: "5267-02_099990986"
+Height: 0
+Mass: 9999
+Package: "5267-02_099990986"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "C:\PADS Projects\Reuse\3DModels\PartDB\Packages\User\5267-02_099990986\5267-02_099990986.prt"
+PTD: "C:\PADS Projects\Reuse\3DModels\PartDB\User\5267-02_099990986\5267-02_099990986.etd"
+
+
+RefDes: 13
+FactPartName: "YMW025-03R"
+SubSeriesName: "5267-03_099990987"
+PartNum: "5267-03_099990987"
+Height: 0
+Mass: 9999
+Package: "5267-03_099990987"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "C:\PADS Projects\Reuse\3DModels\PartDB\Packages\User\5267-03_099990987\5267-03_099990987.prt"
+PTD: "C:\PADS Projects\Reuse\3DModels\PartDB\User\5267-03_099990987\5267-03_099990987.etd"
+
+
+RefDes: 14
+FactPartName: "YMW025-05R"
+SubSeriesName: "5267-05_099990989"
+PartNum: "5267-05_099990989"
+Height: 0
+Mass: 9999
+Package: "5267-05_099990989"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "C:\PADS Projects\Reuse\3DModels\PartDB\Packages\User\5267-05_099990989\5267-05_099990989.prt"
+PTD: "C:\PADS Projects\Reuse\3DModels\PartDB\User\5267-05_099990989\5267-05_099990989.etd"
+
+
+RefDes: 15
+FactPartName: "YMW025-06R"
+SubSeriesName: "5267-06_099990990"
+PartNum: "5267-06_099990990"
+Height: 0
+Mass: 9999
+Package: "5267-06_099990990"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "C:\PADS Projects\Reuse\3DModels\PartDB\Packages\User\5267-06_099990990\5267-06_099990990.prt"
+PTD: "C:\PADS Projects\Reuse\3DModels\PartDB\User\5267-06_099990990\5267-06_099990990.etd"
+
+
+RefDes: 16
+FactPartName: "YMW025-08R"
+SubSeriesName: "5267-08_099990992"
+PartNum: "5267-08_099990992"
+Height: 0
+Mass: 9999
+Package: "5267-08_099990992"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "C:\PADS Projects\Reuse\3DModels\PartDB\Packages\User\5267-08_099990992\5267-08_099990992.prt"
+PTD: "C:\PADS Projects\Reuse\3DModels\PartDB\User\5267-08_099990992\5267-08_099990992.etd"
+
+
+RefDes: 0
+FactPartName: "112404_BNC"
+SubSeriesName: "112404"
+PartNum: "112404"
+Height: 0
+Mass: 9999
+Package: "112404"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "C:\PADS Projects\Reuse\3DModels\PartDB\Packages\User\112404\112404.prt"
+PTD: "C:\PADS Projects\Reuse\3DModels\PartDB\User\112404\112404.etd"
+
+
+RefDes: 11
+FactPartName: "TO-263_5PIN"
+SubSeriesName: "LM2596_D2PAK-5_ONS"
+PartNum: "LM2596_D2PAK-5_ONS"
+Height: 0
+Mass: 9999
+Package: "LM2596_D2PAK-5_ONS"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "C:\PADS Projects\Reuse\3DModels\PartDB\Packages\User\LM2596_D2PAK-5_ONS\LM2596_D2PAK-5_ONS.prt"
+PTD: "C:\PADS Projects\Reuse\3DModels\PartDB\User\LM2596_D2PAK-5_ONS\LM2596_D2PAK-5_ONS.etd"
+
+
+RefDes: 10
+FactPartName: "SOP6_W8.6X10.3_P2.54_F1.1"
+SubSeriesName: "H11L1SM_SOIC_1L1S-M_ONS"
+PartNum: "H11L1SM_SOIC_1L1S-M_ONS"
+Height: 0
+Mass: 9999
+Package: "H11L1SM_SOIC_1L1S-M_ONS"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "C:\PADS Projects\Reuse\3DModels\PartDB\Packages\User\H11L1SM_SOIC_1L1S-M_ONS\H11L1SM_SOIC_1L1S-M_ONS.prt"
+PTD: "C:\PADS Projects\Reuse\3DModels\PartDB\User\H11L1SM_SOIC_1L1S-M_ONS\H11L1SM_SOIC_1L1S-M_ONS.etd"
+
+
+RefDes: 2
+FactPartName: "HIF3FC-16PA-2.54DSA"
+SubSeriesName: "HIF3FC-16PA-2.54DSA"
+PartNum: "HIF3FC-16PA-2.54DSA"
+Height: 0
+Mass: 9999
+Package: "HIF3FC-16PA-2.54DSA"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "C:\PADS Projects\Reuse\3DModels\PartDB\Packages\User\HIF3FC-16PA-2.54DSA\HIF3FC-16PA-2.54DSA.prt"
+PTD: "C:\PADS Projects\Reuse\3DModels\PartDB\User\HIF3FC-16PA-2.54DSA\HIF3FC-16PA-2.54DSA.etd"
+
+
+RefDes: 3
+FactPartName: "SMW200-02"
+SubSeriesName: "smw200-02_p2_l5-98_w5-1_h7-7"
+PartNum: "smw200-02_p2_l5-98_w5-1_h7-7"
+Height: 0
+Mass: 9999
+Package: "smw200-02_p2_l5-98_w5-1_h7-7"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "C:\PADS Projects\Reuse\3DModels\PartDB\Packages\User\smw200-02_p2_l5-98_w5-1_h7-7\smw200-02_p2_l5-98_w5-1_h7-7.prt"
+PTD: "C:\PADS Projects\Reuse\3DModels\PartDB\User\smw200-02_p2_l5-98_w5-1_h7-7\smw200-02_p2_l5-98_w5-1_h7-7.etd"
+
+
+RefDes: 4
+FactPartName: "SMW200-03"
+SubSeriesName: "smh-smw-03_assembly_asm"
+PartNum: "smh-smw-03_assembly_asm"
+Height: 0
+Mass: 9999
+Package: "smh-smw-03_assembly_asm"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "C:\PADS Projects\Reuse\3DModels\PartDB\Packages\User\smh-smw-03_assembly_asm\smh-smw-03_assembly_asm.prt"
+PTD: "C:\PADS Projects\Reuse\3DModels\PartDB\User\smh-smw-03_assembly_asm\smh-smw-03_assembly_asm.etd"
+
+
+RefDes: 5
+FactPartName: "SMW200-08"
+SubSeriesName: "smh-smw-08_assembly_asm"
+PartNum: "smh-smw-08_assembly_asm"
+Height: 0
+Mass: 9999
+Package: "smh-smw-08_assembly_asm"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "C:\PADS Projects\Reuse\3DModels\PartDB\Packages\User\smh-smw-08_assembly_asm\smh-smw-08_assembly_asm.prt"
+PTD: "C:\PADS Projects\Reuse\3DModels\PartDB\User\smh-smw-08_assembly_asm\smh-smw-08_assembly_asm.etd"
+
+
+RefDes: 6
+FactPartName: "SMW250-02"
+SubSeriesName: "smh-smw-250-02_assembly_asm"
+PartNum: "smh-smw-250-02_assembly_asm"
+Height: 0
+Mass: 9999
+Package: "smh-smw-250-02_assembly_asm"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "C:\PADS Projects\Reuse\3DModels\PartDB\Packages\User\smh-smw-250-02_assembly_asm\smh-smw-250-02_assembly_asm.prt"
+PTD: "C:\PADS Projects\Reuse\3DModels\PartDB\User\smh-smw-250-02_assembly_asm\smh-smw-250-02_assembly_asm.etd"
+
+
+RefDes: 7
+FactPartName: "SMW250-03"
+SubSeriesName: "smh-smw-250-03_assembly_asm"
+PartNum: "smh-smw-250-03_assembly_asm"
+Height: 0
+Mass: 9999
+Package: "smh-smw-250-03_assembly_asm"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "C:\PADS Projects\Reuse\3DModels\PartDB\Packages\User\smh-smw-250-03_assembly_asm\smh-smw-250-03_assembly_asm.prt"
+PTD: "C:\PADS Projects\Reuse\3DModels\PartDB\User\smh-smw-250-03_assembly_asm\smh-smw-250-03_assembly_asm.etd"
+
+

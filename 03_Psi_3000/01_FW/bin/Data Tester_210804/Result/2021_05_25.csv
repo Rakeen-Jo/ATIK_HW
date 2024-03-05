@@ -1,0 +1,2 @@
+﻿모델명,장비수,날짜,요일,시작 시간,종료 시간,시험원,시험 방법,시험 결과,av #0,av #1,av #2,av #3,av #4,av #5,av #6,av #7,av #8,av #9,av #10,av #11,lpc #0,lpc #1,lpc #2,lpc #3,lpc #4,lpc #5,lpc #6,lpc #7,lpc #8,lpc #9,lpc #10,lpc #11,lpc #12,lpc #13,센서,펌프 1,펌프 2,스터러,SD 카드,RTC,EEPROM,시리얼 1,시리얼 2,시리얼 3,시리얼 4,
+Sigma-1000,1,2021년 05월 24일,월,20:19:51,07:55:34,홍길동,자동,NG,O,O,O,O,O,O,O,O,O,O,O,O,X,X,X,X,X,X,X,X,X,X,X,X,X,O,O,O,O,X,X,O,O,O,O,O,O,

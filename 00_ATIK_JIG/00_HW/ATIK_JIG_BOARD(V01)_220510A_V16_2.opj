@@ -1,0 +1,77 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\atik_jig_board(v01)_220510a_v16_2.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify)
+    (Netlist_TAB "8")
+    (OTHER_Part_Value "{Value}")
+    (OTHER_Netlist_File "ATIK_JIG_BOARD(V01)_220510A_V16_2.asc")
+    (OTHER_Netlist_File2 "ATIK_JIG_BOARD(V01)_220510A_V16_2.CMP")
+    (OTHER_View_Output "FALSE")
+    (OTHER_View_Output2 "FALSE")
+    (OTHER_Formatter "orpads2k64.dll")
+    (OTHER_PCB_Footprint "{PCB Footprint}")
+    (OTHER_Switch0 "FALSE")
+    (OTHER_Switch1 "FALSE")
+    (OTHER_Switch2 "FALSE")
+    (OTHER_Switch3 "FALSE")
+    (OTHER_Switch4 "FALSE")
+    (OTHER_Switch5 "FALSE")
+    (OTHER_Switch6 "FALSE"))
+  (Folder "Outputs"
+    (File ".\atik_jig_board(v01)_220510a_v16_2.asc"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (MPSSessionName "rhjo")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\atik_jig_board(v01)_220510a_v16_2.dsn")
+      (Path "Design Resources" ".\atik_jig_board(v01)_220510a_v16_2.dsn"
+         "IOBoard")
+      (Path "Outputs")
+      (Select "Design Resources" ".\atik_jig_board(v01)_220510a_v16_2.dsn"
+         "IOBoard" "P06:ADC"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 426"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 26 1238 26 601")
+        (Scroll "-2 13")
+        (Zoom "50")
+        (Occurrence "/"))
+      (Path "D:\WORK\JIG_BOARD\ATIK_JIG_BOARD(V01)_220510A_V16_2.DSN")
+      (Schematic "IOBoard")
+      (Page "P02:POWER/ETC"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 156 1368 156 731")
+        (Scroll "894 2056")
+        (Zoom "200")
+        (Occurrence "/"))
+      (Path "D:\WORK\JIG_BOARD\ATIK_JIG_BOARD(V01)_220510A_V16_2.DSN")
+      (Schematic "IOBoard")
+      (Page "P05:DAC"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 182 1394 182 757")
+        (Scroll "734 812")
+        (Zoom "200")
+        (Occurrence "/"))
+      (Path "D:\WORK\JIG_BOARD\ATIK_JIG_BOARD(V01)_220510A_V16_2.DSN")
+      (Schematic "IOBoard")
+      (Page "P06:ADC")))
+  (ISPCBBASICLICENSE "false"))

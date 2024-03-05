@@ -1,0 +1,20 @@
+11:16:59 **** Incremental Build of configuration Release for project IAP_ATIK ****
+make -j8 all 
+arm-none-eabi-gcc "../Core/Src/menu.c" -mcpu=cortex-m4 -std=gnu11 -DUSE_HAL_DRIVER -DSTM32F407xx -c -I../Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -Os -ffunction-sections -fdata-sections -Wall -fstack-usage -MMD -MP -MF"Core/Src/menu.d" -MT"Core/Src/menu.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/menu.o"
+arm-none-eabi-gcc -o "IAP_ATIK.elf" @"objects.list"   -mcpu=cortex-m4 -T"D:\DCLEE\03. PJT\02. nu-2000(OAS-DSP)\06. FW\IAP_ATIK\IAP_ATIK\STM32F407IGHX_FLASH.ld" --specs=nosys.specs -Wl,-Map="IAP_ATIK.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: IAP_ATIK.elf
+ 
+arm-none-eabi-objdump -h -S  IAP_ATIK.elf  > "IAP_ATIK.list"
+arm-none-eabi-objcopy  -O binary  IAP_ATIK.elf  "IAP_ATIK.bin"
+arm-none-eabi-size   IAP_ATIK.elf 
+   text	   data	    bss	    dec	    hex	filename
+   8376	     20	   2788	  11184	   2bb0	IAP_ATIK.elf
+Finished building: default.size.stdout
+ 
+Finished building: IAP_ATIK.bin
+ 
+Finished building: IAP_ATIK.list
+ 
+
+11:17:00 Build Finished. 0 errors, 0 warnings. (took 692ms)
+

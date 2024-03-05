@@ -1,0 +1,21 @@
+!SESSION 2021-03-29 08:17:18.373 -----------------------------------------------
+eclipse.buildId=Version 1.6.0
+java.version=11.0.9.1
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2021-03-29 08:17:39.211
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2021-03-29 08:17:39.273
+!MESSAGE Log4j initialized with config file D:\DCLEE\03. PJT\02. nu-2000(OAS-DSP)\06. FW\IAP_ATIK\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2021-03-29 08:17:41.318
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 4 4 2021-03-29 08:17:42.340
+!MESSAGE com.st.stm32cube.ide.mcu.ide/META-INF/version/build_ref file not found, build reference will not be reported into properties
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-03-29 08:18:41.476
+!MESSAGE Indexed 'IAP_ATIK' (21 sources, 81 headers) in 2.8 sec: 4,391 declarations; 17,544 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0091%)

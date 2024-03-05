@@ -1,0 +1,8 @@
+1. DIW 압력 공급, 		AV_00, AV_01
+2. DIW pump 공급, 		AV_00, AV_01, AV_02, 			PUMP_00_20
+3. standard pump 공급, 		AV_00, AV_01, AV_02, AV_03, 		PUMP_00_20
+4. cleaning solution pump 공급,	AV_00, AV_01, AV_02, AV_04, 		PUMP_00_20
+5. drain test, 			AV_00, AV_01, AV_05, 					PUMP_01_20
+6. circulation test, 		AV_00, AV_01, AV_02, AV_05, AV_07, AV_08, 	PUMP_00_20, 	PUMP_01_20
+7. DIW flow, 			AV_00, AV_01, AV_06
+#8. TEST, 			LPC_00, LPC_01, AV_06

@@ -1,0 +1,113 @@
+Version: 1
+RefDes: 6
+FactPartName: "RY24W-K"
+SubSeriesName: "RY24W-K"
+PartNum: "RY24W-K"
+Height: 0
+Mass: 9999
+Package: "RY24W-K"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "C:\PADS Projects\Reuse\3DModels\PartDB\Packages\User\RY24W-K\RY24W-K.prt"
+PTD: "C:\PADS Projects\Reuse\3DModels\PartDB\User\RY24W-K\RY24W-K.etd"
+
+
+RefDes: 5
+FactPartName: "LM2596DSA_TO-263"
+SubSeriesName: "LM2596SX-ADJ"
+PartNum: "LM2596SX-ADJ"
+Height: 0
+Mass: 9999
+Package: "LM2596SX-ADJ"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "C:\PADS Projects\Reuse\3DModels\PartDB\Packages\User\LM2596SX-ADJ\LM2596SX-ADJ.prt"
+PTD: "C:\PADS Projects\Reuse\3DModels\PartDB\User\LM2596SX-ADJ\LM2596SX-ADJ.etd"
+
+
+RefDes: 3
+FactPartName: "53375-0310"
+SubSeriesName: "533750310"
+PartNum: "533750310"
+Height: 0
+Mass: 9999
+Package: "533750310"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "C:\PADS Projects\Reuse\3DModels\PartDB\Packages\User\533750310\533750310.prt"
+PTD: "C:\PADS Projects\Reuse\3DModels\PartDB\User\533750310\533750310.etd"
+
+
+RefDes: 0
+FactPartName: "5267-06A"
+SubSeriesName: "5267-06a"
+PartNum: "5267-06a"
+Height: 0
+Mass: 9999
+Package: "5267-06a"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "C:\PADS Projects\Reuse\3DModels\PartDB\Packages\User\5267-06a\5267-06a.prt"
+PTD: "C:\PADS Projects\Reuse\3DModels\PartDB\User\5267-06a\5267-06a.etd"
+
+
+RefDes: 1
+FactPartName: "5267-08A"
+SubSeriesName: "5267-08a"
+PartNum: "5267-08a"
+Height: 0
+Mass: 9999
+Package: "5267-08a"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "C:\PADS Projects\Reuse\3DModels\PartDB\Packages\User\5267-08a\5267-08a.prt"
+PTD: "C:\PADS Projects\Reuse\3DModels\PartDB\User\5267-08a\5267-08a.etd"
+
+
+RefDes: 2
+FactPartName: "5267-10A"
+SubSeriesName: "5267-10a"
+PartNum: "5267-10a"
+Height: 0
+Mass: 9999
+Package: "5267-10a"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "C:\PADS Projects\Reuse\3DModels\PartDB\Packages\User\5267-10a\5267-10a.prt"
+PTD: "C:\PADS Projects\Reuse\3DModels\PartDB\User\5267-10a\5267-10a.etd"
+
+
+RefDes: 4
+FactPartName: "HIF3FC-16PA-2.54DSA"
+SubSeriesName: "HIF3FC-16PA-2.54DSA"
+PartNum: "HIF3FC-16PA-2.54DSA"
+Height: 0
+Mass: 9999
+Package: "HIF3FC-16PA-2.54DSA"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "C:\PADS Projects\Reuse\3DModels\PartDB\Packages\User\HIF3FC-16PA-2.54DSA\HIF3FC-16PA-2.54DSA.prt"
+PTD: "C:\PADS Projects\Reuse\3DModels\PartDB\User\HIF3FC-16PA-2.54DSA\HIF3FC-16PA-2.54DSA.etd"
+
+

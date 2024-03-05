@@ -1,0 +1,91 @@
+==============================================================================
+PADS Layout - Version 2021.2.19222662
+==============================================================================
+Job Name:                  C:\0_Job\0_Project\5_L-titrator\4_SCH_PCB\Main_Rev0.2\ATS8051_P_L_TITRATOR_MAIN(V0_2)_F\ATS8051_P_L_TITRATOR_MAIN(V0_2).pcb
+
+3D Design Status Report:   C:\0_Job\0_Project\5_L-titrator\4_SCH_PCB\Main_Rev0.2\ATS8051_P_L_TITRATOR_MAIN(V0_2)_F\LogFiles\DesignStatus3D_02.txt
+
+04:54:58 PM Thursday, June 23, 2022
+
+==============================================================================
+3D DESIGN STATUS
+==============================================================================
+
+Design Z Extents ......... -2.9 mm to 15.3 mm
+
+Part models found ........ 18
+   Part Number                          3D Model
+   112404_BNC                           112404
+   760390014                            760390014_WRE
+   HIF3FC-16PA-2.54DSA                  HIF3FC-16PA-2.54DSA
+   SMW200-02                            smw200-02_p2_l5-98_w5-1_h7-7
+   SMW200-03                            smh-smw-03_assembly_asm
+   SMW200-08                            smh-smw-08_assembly_asm
+   SMW250-02                            smh-smw-250-02_assembly_asm
+   SMW250-03                            smh-smw-250-03_assembly_asm
+   SOP16_W10.0X6.0_P1.27_F0.8           D0016A
+   SOP16_W10.3X7.0_P1.27_F0.5           SO16_0
+   SOP6_W8.6X10.3_P2.54_F1.1            H11L1SM_SOIC_1L1S-M_ONS
+   SOT353-1                             C:\0_Job\0_Project\5_L-titrator\4_SCH_PCB\Main_Rev0.2\ATS8051_P_L_TITRATOR_MAIN(V0_2)_F\ATS8051_P_L_TITRATOR_MAIN(V0_2)_PCB\3D\ImportedPartModels\74LVC1G17GV-Q100,1.stp
+   TO-263_5PIN                          LM2596_D2PAK-5_ONS
+   YMW025-02R                           5267-02_099990986
+   YMW025-03R                           5267-03_099990987
+   YMW025-05R                           5267-05_099990989
+   YMW025-06R                           5267-06_099990990
+   YMW025-08R                           5267-08_099990992
+
+Part models not found .... 42
+   Part Number
+   BS127D-S022-60G
+   C1608
+   C2012
+   DFN11_W3.0X3.0_P0.5_F0.4_EP1.7X2.4
+   DO-214-AC
+   DO-219AD
+   E_D56
+   E_F60
+   E_H10
+   E_H63
+   HEADER-2.54P-1X2
+   HIF3H-16DA-2.54SDA
+   JS102011JCQN
+   L2012
+   LED1608
+   MDE-1250
+   NTH-3.0MM
+   NTH-3.5
+   PJS008-2003-1
+   QFN21_W4.0X4.0_P0.5_F0.4_EP2.6
+   R1608
+   R2012
+   R3216
+   R5025
+   S8411-45R
+   SOD-123-FL
+   SOD-323
+   SOP16_W6.2X7.8_P0.65_F0.7
+   SOP20_W6.5X6.4_P0.65_F0.6
+   SOP8_W2.0X3.1_P0.5_F0.3
+   SOP8_W3.0X4.9_P0.65_F0.6
+   SOP8_W5.0X6.0_P1.27_F0.8
+   SOT-223-2
+   SOT-23_1
+   SOT-23_2
+   SOT23L_5
+   TC2012
+   TC3216
+   TP-1.5-0.8
+   TP-1.5-1.0
+   VISION_1
+   YW396-02V
+
+Assemblies
+   Filename: "C:\Users\melon\OneDrive\πŸ≈¡ »≠∏È\3D_output\ATS7704_1_P_L_TITRATOR_MCU_MODULE(V0.1)_220427_F.step", Scale: 1.00
+      Instance: Type=Assembly 	"MCU_Module", Rotate(X, Y, Z in degrees): (0, 0, 0), Translate(X, Y, Z in mm): (87.17, 31.98, 7.1) (saved with design)
+   Filename: "C:\Users\melon\OneDrive\πŸ≈¡ »≠∏È\3D_output\L_TITRATOR_RELAY(V0.1)_20211220.step", Scale: 1.00
+      Instance: Type=Assembly 	"Realy_Module", Rotate(X, Y, Z in degrees): (0, 0, 0), Translate(X, Y, Z in mm): (86.97, 86.48, 15.6) (saved with design)
+
+
+Mated Items
+    "MCU_Module" is mated to "J29"
+    "Realy_Module" is mated to "J34"

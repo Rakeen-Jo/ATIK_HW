@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<log4net>
+  <logger name="ERR">
+    <level value="DEBUG" />
+    <appender-ref ref="ErrFile" />
+  </logger>
+  
+  <logger name="ALARM">
+    <level value="DEBUG" />
+    <appender-ref ref="AlarmFile" />
+  </logger>
+
+  <logger name="SYSTEM">
+    <level value="DEBUG" />
+    <appender-ref ref="SystemFile" />
+  </logger>
+
+  <logger name="USER">
+    <level value="DEBUG" />
+    <appender-ref ref="UserFile" />
+  </logger>
+
+  <logger name="CAM">
+    <level value="DEBUG" />
+    <appender-ref ref="CameraFile" />
+  </logger>
+
+  <appender name="ErrFile" type="log4net.Appender.RollingFileAppender">
+    <file value="../Log/ERR.log" />
+    <appendToFile value="true" />
+    <datePattern value="yyyyMMdd" />
+    <rollingStyle value="Date" />
+    <maxSizeRollBackups value="30" />
+    <datePattern value="-MMdd" />
+    <layout type="log4net.Layout.PatternLayout">
+      <conversionPattern value="%d [%t] %-5p %c - %m%n"  />
+    </layout>
+  </appender>
+
+  <appender name="AlarmFile" type="log4net.Appender.RollingFileAppender">
+    <file value="../Log/ALARM.log" />
+    <appendToFile value="true" />
+    <datePattern value="yyyyMMdd" />
+    <rollingStyle value="Date" />
+    <maxSizeRollBackups value="30" />
+    <datePattern value="-MMdd" />
+    <layout type="log4net.Layout.PatternLayout">
+      <conversionPattern value="%d [%t] %-5p %c - %m%n"  />
+    </layout>
+  </appender>
+
+  <appender name="SystemFile" type="log4net.Appender.RollingFileAppender">
+    <file value="../Log/SYSTEM.log" />
+    <appendToFile value="true" />
+    <datePattern value="yyyyMMdd" />
+    <rollingStyle value="Date" />
+    <maxSizeRollBackups value="30" />
+    <datePattern value="-MMdd" />
+    <layout type="log4net.Layout.PatternLayout">
+      <conversionPattern value="%d [%t] %-5p %c - %m%n"  />
+    </layout>
+  </appender>
+
+  <appender name="UserFile" type="log4net.Appender.RollingFileAppender">
+    <file value="../Log/USER.log" />
+    <appendToFile value="true" />
+    <datePattern value="yyyyMMdd" />
+    <rollingStyle value="Date" />
+    <maxSizeRollBackups value="30" />
+    <datePattern value="-MMdd" />
+    <layout type="log4net.Layout.PatternLayout">
+      <conversionPattern value="%d [%t] %-5p %c - %m%n"  />
+    </layout>
+  </appender>
+
+  <appender name="CameraFile" type="log4net.Appender.RollingFileAppender">
+    <file value="../Log/CAM.log" />
+    <appendToFile value="true" />
+    <datePattern value="yyyyMMdd" />
+    <rollingStyle value="Date" />
+    <maxSizeRollBackups value="30" />
+    <datePattern value="-MMdd" />
+    <layout type="log4net.Layout.PatternLayout">
+      <conversionPattern value="%d [%t] %-5p %c - %m%n"  />
+    </layout>
+  </appender>
+
+</log4net>
+
